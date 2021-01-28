@@ -2,7 +2,7 @@
 
 In Brazilian Portuguese, Fulano is 'Tom' of e.g. 'any Tom, Dick or Harry'
 
-## Belltrano & Sicrano
+## Beltrano & Sicrano
 
 That's Dick and Harry in this scenario. Just random stuff to make changes
 
